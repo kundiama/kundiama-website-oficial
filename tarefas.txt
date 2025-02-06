@@ -1,0 +1,19 @@
+1 - PNG da logo e Favicon
+
+2 - Imagem fundo 
+
+3 - Links das redes sociais
+
+4 - Textos do carroucell
+
+5 - Texto sobre nós
+
+6 - Serviços
+
+7 - Imagens de projectos
+
+8 - Link de blogs
+
+9 - Equipa fotos e textos
+
+10 - Footer informações
